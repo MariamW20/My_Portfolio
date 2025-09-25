@@ -9,7 +9,7 @@ const projects = [
     description: 'Personal portfolio built with Next.js and Tailwind, featuring projects, skills and experience.',
     tech: ['Next.js', 'React', 'Tailwind CSS'],
     link: '/',
-    repo: 'https://github.com/yourname/portfolio',
+    repo: 'https://github.com/MariamW20/My_Portfolio',
     image: '/Mine.jpg',
   },
   {

@@ -25,7 +25,7 @@ export function Hero() {
             Mariam Wambui
           </motion.h1>
           <p className="mt-4 text-lg text-slate-300 max-w-xl">
-            Third-year Software Engineering student at Makerere University. I build for the web,
+            Software Engineering student at Makerere University. I build for the web,
             explore data and experiment with machine learning and Web 3.0.
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
