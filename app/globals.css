@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #111827; /* gray-900 */
+  --fg: #e5e7eb; /* gray-200 */
+}
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+}
+
+/* smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* container */
+.container {
+  @apply max-w-6xl mx-auto px-4;
+}
+
